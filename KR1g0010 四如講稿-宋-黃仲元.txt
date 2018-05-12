@@ -1,5 +1,5 @@
 #+TITLE: 四如講稿-宋-黃仲元
-#+DATE: 2016-06-11 12:20:40
+#+DATE: 2018-05-12 10:14:46
 #+SOURCE: github.com/kanripo/KR1g0010 master 25e2b05d                
 欽定四庫全書　　　　　　經部七
 　四如講稿　　　　　　　五經縂義類

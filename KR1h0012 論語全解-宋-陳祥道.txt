@@ -1,5 +1,5 @@
 #+TITLE: 論語全解-宋-陳祥道
-#+DATE: 2016-06-11 12:20:41
+#+DATE: 2018-05-12 10:14:53
 #+SOURCE: github.com/kanripo/KR1h0012 master 3468b816                
 　　欽定四庫全書　　　　經部八
 

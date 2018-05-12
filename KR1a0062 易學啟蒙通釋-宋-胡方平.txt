@@ -1,5 +1,5 @@
 #+TITLE: 易學啟蒙通釋-宋-胡方平
-#+DATE: 2016-06-11 12:19:48
+#+DATE: 2018-05-12 10:13:17
 #+SOURCE: github.com/kanripo/KR1a0062 master 9698e0d4                
 欽定四庫全書　　　　經部一
 　易學啟蒙通釋　　　　易類

@@ -1,5 +1,5 @@
 #+TITLE: 西谿易說-宋-李過
-#+DATE: 2016-06-11 12:19:47
+#+DATE: 2018-05-12 10:13:16
 #+SOURCE: github.com/kanripo/KR1a0049 master 0ab4f2cd                
 欽定四庫全書　　　　經部一
 　西谿易説　　　　　　易類

@@ -1,5 +1,5 @@
 #+TITLE: 易學辨惑-宋-邵伯溫
-#+DATE: 2016-06-11 12:19:45
+#+DATE: 2018-05-12 10:13:11
 #+SOURCE: github.com/kanripo/KR1a0017 master 553e2885                
 欽定四庫全書　　　　經部一
 　易學辨惑　　　　　　易類

@@ -1,5 +1,5 @@
 #+TITLE: 易俟-清-喬萊
-#+DATE: 2016-06-11 12:19:55
+#+DATE: 2018-05-12 10:13:26
 #+SOURCE: github.com/kanripo/KR1a0130 master 172b0d48                
 欽定四庫全書　　　　經部一
 　易俟　　　　　　　　易𩔖

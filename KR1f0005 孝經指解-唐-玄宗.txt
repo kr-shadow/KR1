@@ -1,5 +1,5 @@
 #+TITLE: 孝經指解-唐-玄宗
-#+DATE: 2016-06-11 12:20:39
+#+DATE: 2018-05-12 10:14:44
 #+SOURCE: github.com/kanripo/KR1f0005 master eaa9bce3                
 欽定四庫全書　　　　經部六
 　古文孝經指解　　　　孝經類

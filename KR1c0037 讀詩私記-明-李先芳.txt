@@ -1,5 +1,5 @@
 #+TITLE: 讀詩私記-明-李先芳
-#+DATE: 2016-06-11 12:20:07
+#+DATE: 2018-05-12 10:13:52
 #+SOURCE: github.com/kanripo/KR1c0037 master 76f32118                
 欽定四庫全書　　　　經部三
 　讀詩私記　　　　　　詩類

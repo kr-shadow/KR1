@@ -1,5 +1,5 @@
 #+TITLE: 蒙齋中庸講義-宋-袁甫
-#+DATE: 2016-06-11 12:20:42
+#+DATE: 2018-05-12 10:14:55
 #+SOURCE: github.com/kanripo/KR1h0023 master 421e4828                
 　　欽定四庫全書　　　　　經部八
 

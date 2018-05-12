@@ -1,5 +1,5 @@
 #+TITLE: 論語集說-宋-蔡節
-#+DATE: 2016-06-11 12:20:42
+#+DATE: 2018-05-12 10:14:56
 #+SOURCE: github.com/kanripo/KR1h0026 master 8b920de5                
 　　欽定四庫全書　　　　經部八
 

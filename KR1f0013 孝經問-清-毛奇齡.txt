@@ -1,5 +1,5 @@
 #+TITLE: 孝經問-清-毛奇齡
-#+DATE: 2016-06-11 12:20:39
+#+DATE: 2018-05-12 10:14:44
 #+SOURCE: github.com/kanripo/KR1f0013 master 4873aa3c                
 欽定四庫全書　　　　　經部六
 　孝經問　　　　　　　　孝經類

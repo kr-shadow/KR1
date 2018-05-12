@@ -1,5 +1,5 @@
 #+TITLE: 讀禮志疑-清-陸隴其
-#+DATE: 2016-06-11 12:20:22
+#+DATE: 2018-05-12 10:14:19
 #+SOURCE: github.com/kanripo/KR1d0081 master ab01ec01                
 欽定四庫全書　　　　　經部四
 　讀禮志疑　　　　　　　禮類四(三禮總義之屬/)

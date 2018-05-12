@@ -1,5 +1,5 @@
 #+TITLE: 溫公易說-宋-司馬光
-#+DATE: 2016-06-11 12:19:44
+#+DATE: 2018-05-12 10:13:10
 #+SOURCE: github.com/kanripo/KR1a0013 master 8f9ebe41                
 欽定四庫全書　　　　經部一
 　易説　　　　　　　　易類

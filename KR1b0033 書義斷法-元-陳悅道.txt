@@ -1,5 +1,5 @@
 #+TITLE: 書義斷法-元-陳悅道
-#+DATE: 2016-06-11 12:20:01
+#+DATE: 2018-05-12 10:13:36
 #+SOURCE: github.com/kanripo/KR1b0033 master a54b8af1                
 欽定四庫全書　　　　　經部二
 　書義斷法　　　　　　　書類

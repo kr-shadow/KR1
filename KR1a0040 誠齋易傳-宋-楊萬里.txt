@@ -1,5 +1,5 @@
 #+TITLE: 誠齋易傳-宋-楊萬里
-#+DATE: 2016-06-11 12:19:46
+#+DATE: 2018-05-12 10:13:15
 #+SOURCE: github.com/kanripo/KR1a0040 master e8aae284                
 欽定四庫全書　　　　經部一
 　誠齋易傳　　　　　　易類

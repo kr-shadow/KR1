@@ -1,5 +1,5 @@
 #+TITLE: 四書或問-宋-朱熹
-#+DATE: 2016-06-11 12:20:41
+#+DATE: 2018-05-12 10:14:54
 #+SOURCE: github.com/kanripo/KR1h0016 master 2003172d                
 　　欽定四庫全書　　　　　經部八
 

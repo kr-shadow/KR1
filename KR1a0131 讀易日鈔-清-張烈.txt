@@ -1,5 +1,5 @@
 #+TITLE: 讀易日鈔-清-張烈
-#+DATE: 2016-06-11 12:19:55
+#+DATE: 2018-05-12 10:13:27
 #+SOURCE: github.com/kanripo/KR1a0131 master cb9c78f7                
 欽定四庫全書　　　　經部一
 　讀易日鈔總目　　　　　易類

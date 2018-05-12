@@ -1,5 +1,5 @@
 #+TITLE: 劉氏春秋意林-宋-劉敞
-#+DATE: 2016-06-11 12:20:28
+#+DATE: 2018-05-12 10:14:27
 #+SOURCE: github.com/kanripo/KR1e0023 master 39ab11c3                
 欽定四庫全書　　　　經部五
 　春秋意林　　　　　　春秋類

@@ -1,5 +1,5 @@
 #+TITLE: 易象大意存解-清-任陳晉
-#+DATE: 2016-06-11 12:19:57
+#+DATE: 2018-05-12 10:13:30
 #+SOURCE: github.com/kanripo/KR1a0158 master c697bffd                
 欽定四庫全書　　　　　經部一
 　易象大意存解　　　　　易類

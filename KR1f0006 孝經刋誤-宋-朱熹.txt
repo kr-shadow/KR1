@@ -1,5 +1,5 @@
 #+TITLE: 孝經刋誤-宋-朱熹
-#+DATE: 2016-06-11 12:20:39
+#+DATE: 2018-05-12 10:14:44
 #+SOURCE: github.com/kanripo/KR1f0006 master f88680ed                
 欽定四庫全書　　　　　　經部六
 　孝經刋誤　　　　　　　　孝經類

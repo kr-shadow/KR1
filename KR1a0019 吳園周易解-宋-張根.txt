@@ -1,5 +1,5 @@
 #+TITLE: 吳園周易解-宋-張根
-#+DATE: 2016-06-11 12:19:45
+#+DATE: 2018-05-12 10:13:11
 #+SOURCE: github.com/kanripo/KR1a0019 master de2ad6cd                
 欽定四庫全書　　　　經部一
 　吳園周易解　　　　　易𩔖

@@ -1,5 +1,5 @@
 #+TITLE: 尚書注考-明-陳泰交
-#+DATE: 2016-06-11 12:20:02
+#+DATE: 2018-05-12 10:13:38
 #+SOURCE: github.com/kanripo/KR1b0042 master a34e371e                
 欽定四庫全書　　　　經部二
 　尚書註考　　　　　　書類

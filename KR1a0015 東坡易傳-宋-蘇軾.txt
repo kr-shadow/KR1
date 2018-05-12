@@ -1,5 +1,5 @@
 #+TITLE: 東坡易傳-宋-蘇軾
-#+DATE: 2016-06-11 12:19:45
+#+DATE: 2018-05-12 10:13:11
 #+SOURCE: github.com/kanripo/KR1a0015 master 71c7f140                
 欽定四庫全書　　　　經部一
 　東坡易傳　　　　　　易類

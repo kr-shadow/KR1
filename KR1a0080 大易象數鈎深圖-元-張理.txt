@@ -1,5 +1,5 @@
 #+TITLE: 大易象數鈎深圖-元-張理
-#+DATE: 2016-06-11 12:19:50
+#+DATE: 2018-05-12 10:13:19
 #+SOURCE: github.com/kanripo/KR1a0080 master a55a5298                
 欽定四庫全書　　　　經部一
 　大易象數鉤深圖　　　易類

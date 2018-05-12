@@ -1,5 +1,5 @@
 #+TITLE: 周易衍義-元-胡震
-#+DATE: 2016-06-11 12:19:49
+#+DATE: 2018-05-12 10:13:19
 #+SOURCE: github.com/kanripo/KR1a0075 master 87aa4cd5                
 欽定四庫全書　　　　　經部一
 　周易衍義　　　　　　　易類

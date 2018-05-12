@@ -1,5 +1,5 @@
 #+TITLE: 御定孝經注-清-世祖
-#+DATE: 2016-06-11 12:20:39
+#+DATE: 2018-05-12 10:14:44
 #+SOURCE: github.com/kanripo/KR1f0011 master ef51cf05                
 御製孝經序
 　朕惟孝者首百行而為五倫之本天地所以成化聖人

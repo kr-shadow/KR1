@@ -1,5 +1,5 @@
 #+TITLE: 南軒易說-宋-張栻
-#+DATE: 2016-06-11 12:19:46
+#+DATE: 2018-05-12 10:13:15
 #+SOURCE: github.com/kanripo/KR1a0035 master bfbcb699                
 欽定四庫全書　　　　經部一
 　南軒易説　　　　　　易類

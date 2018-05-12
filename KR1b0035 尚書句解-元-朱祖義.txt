@@ -1,5 +1,5 @@
 #+TITLE: 尚書句解-元-朱祖義
-#+DATE: 2016-06-11 12:20:01
+#+DATE: 2018-05-12 10:13:37
 #+SOURCE: github.com/kanripo/KR1b0035 master d878b72d                
 欽定四庫全書　　　　　經部二
 　尚書句解　　　　　　　書類

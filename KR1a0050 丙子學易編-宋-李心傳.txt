@@ -1,5 +1,5 @@
 #+TITLE: 丙子學易編-宋-李心傳
-#+DATE: 2016-06-11 12:19:47
+#+DATE: 2018-05-12 10:13:16
 #+SOURCE: github.com/kanripo/KR1a0050 master 5d01e6b7                
 欽定四庫全書　　　　經部一
 　丙子學易編　　　　　易類

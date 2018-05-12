@@ -1,5 +1,5 @@
 #+TITLE: 易原-宋-程大昌
-#+DATE: 2016-06-11 12:19:46
+#+DATE: 2018-05-12 10:13:14
 #+SOURCE: github.com/kanripo/KR1a0029 master 81d2ec59                
 欽定四庫全書　　　　經部一
 　易原　　　　　　　　易𩔖

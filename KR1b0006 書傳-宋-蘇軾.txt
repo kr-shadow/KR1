@@ -1,5 +1,5 @@
 #+TITLE: 書傳-宋-蘇軾
-#+DATE: 2016-06-11 12:19:58
+#+DATE: 2018-05-12 10:13:31
 #+SOURCE: github.com/kanripo/KR1b0006 master 7d5ad649                
 欽定四庫全書　　　　經部二
 　書傳　　　　　　　　書類

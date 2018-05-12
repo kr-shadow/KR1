@@ -1,5 +1,5 @@
 #+TITLE: 周易註-魏-王弼
-#+DATE: 2016-06-11 12:19:44
+#+DATE: 2018-05-12 10:13:09
 #+SOURCE: github.com/kanripo/KR1a0006 master 8356c5f5                
 周易上經乾傳第一
 　　　　　　　　　　王弼注

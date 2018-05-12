@@ -1,5 +1,5 @@
 #+TITLE: 易小傳-宋-沈該
-#+DATE: 2016-06-11 12:19:45
+#+DATE: 2018-05-12 10:13:12
 #+SOURCE: github.com/kanripo/KR1a0023 master 0a0705d9                
 欽定四庫全書　　　　經部一
 　易小傳　　　　　　　易𩔖

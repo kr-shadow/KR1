@@ -1,5 +1,5 @@
 #+TITLE: 春秋年表--闕名
-#+DATE: 2016-06-11 12:20:28
+#+DATE: 2018-05-12 10:14:27
 #+SOURCE: github.com/kanripo/KR1e0017 master 1b5542c5                
 欽定四庫全書　　　　　經部五
 　春秋年表　　　　　　　春秋類

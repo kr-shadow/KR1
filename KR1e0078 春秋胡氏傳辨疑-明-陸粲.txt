@@ -1,5 +1,5 @@
 #+TITLE: 春秋胡氏傳辨疑-明-陸粲
-#+DATE: 2016-06-11 12:20:34
+#+DATE: 2018-05-12 10:14:35
 #+SOURCE: github.com/kanripo/KR1e0078 master 4a622bf9                
 欽定四庫全書　　　　　經部五
 　春秋胡氏傳辨疑　　　　春秋類

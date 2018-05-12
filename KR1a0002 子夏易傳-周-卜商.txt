@@ -1,5 +1,5 @@
 #+TITLE: 子夏易傳-周-卜商
-#+DATE: 2016-06-11 12:19:44
+#+DATE: 2018-05-12 10:13:09
 #+SOURCE: github.com/kanripo/KR1a0002 master 00dfb84f                
 欽定四庫全書　　　　　經部一
 　子夏易𫝊　　　　　　　易𩔖

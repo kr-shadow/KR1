@@ -1,5 +1,5 @@
 #+TITLE: 洪範口義-宋-胡瑗
-#+DATE: 2016-06-11 12:19:58
+#+DATE: 2018-05-12 10:13:31
 #+SOURCE: github.com/kanripo/KR1b0005 master a5ded473                
 欽定四庫全書　　　　經部二
 　洪範口義　　　　　　　書類

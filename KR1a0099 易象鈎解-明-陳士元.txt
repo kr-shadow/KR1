@@ -1,5 +1,5 @@
 #+TITLE: 易象鈎解-明-陳士元
-#+DATE: 2016-06-11 12:19:52
+#+DATE: 2018-05-12 10:13:23
 #+SOURCE: github.com/kanripo/KR1a0099 master faf1d184                
 欽定四庫全書　　　　經部一
 　易象鈎解　　　　　　易類

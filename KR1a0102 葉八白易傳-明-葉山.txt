@@ -1,5 +1,5 @@
 #+TITLE: 葉八白易傳-明-葉山
-#+DATE: 2016-06-11 12:19:52
+#+DATE: 2018-05-12 10:13:23
 #+SOURCE: github.com/kanripo/KR1a0102 master 41bb0601                
 欽定四庫全書　　　　　經部一
 　葉八白易𫝊　　　　　易𩔖

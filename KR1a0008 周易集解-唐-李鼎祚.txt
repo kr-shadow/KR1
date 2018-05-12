@@ -1,5 +1,5 @@
 #+TITLE: 周易集解-唐-李鼎祚
-#+DATE: 2016-06-11 12:19:44
+#+DATE: 2018-05-12 10:13:10
 #+SOURCE: github.com/kanripo/KR1a0008 master b5e1cccf                
 欽定四庫全書　　　　經部一
 　周易集解　　　　　　易類

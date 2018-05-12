@@ -1,5 +1,5 @@
 #+TITLE: 孝經大義-元-董鼎
-#+DATE: 2016-06-11 12:20:39
+#+DATE: 2018-05-12 10:14:44
 #+SOURCE: github.com/kanripo/KR1f0007 master 12d8fb03                
 欽定四庫全書　　　　　經部六
 　孝經大義序　　　　　　孝經類

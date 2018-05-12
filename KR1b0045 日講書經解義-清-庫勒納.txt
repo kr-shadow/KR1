@@ -1,5 +1,5 @@
 #+TITLE: 日講書經解義-清-庫勒納
-#+DATE: 2016-06-11 12:20:02
+#+DATE: 2018-05-12 10:13:39
 #+SOURCE: github.com/kanripo/KR1b0045 master df00d21a                
 　欽定四庫全書
 御製日講書經解義序

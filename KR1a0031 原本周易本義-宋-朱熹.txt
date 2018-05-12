@@ -1,5 +1,5 @@
 #+TITLE: 原本周易本義-宋-朱熹
-#+DATE: 2016-06-11 12:19:46
+#+DATE: 2018-05-12 10:13:14
 #+SOURCE: github.com/kanripo/KR1a0031 master d495f4f3                
 欽定四庫全書　　　　經部一
 　原本周易本義　　　　易𩔖

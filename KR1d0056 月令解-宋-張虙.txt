@@ -1,5 +1,5 @@
 #+TITLE: 月令解-宋-張虙
-#+DATE: 2016-06-11 12:20:18
+#+DATE: 2018-05-12 10:14:13
 #+SOURCE: github.com/kanripo/KR1d0056 master 501755fb                
 欽定四庫全書　　　　經部四
 　月令解　　　　　　　禮類三(禮記之屬/)

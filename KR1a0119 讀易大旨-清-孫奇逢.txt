@@ -1,5 +1,5 @@
 #+TITLE: 讀易大旨-清-孫奇逢
-#+DATE: 2016-06-11 12:19:54
+#+DATE: 2018-05-12 10:13:26
 #+SOURCE: github.com/kanripo/KR1a0119 master 3041abe8                
 欽定四庫全書　　　　　經部一
 　讀易大㫖　　　　　　　易𩔖

@@ -1,5 +1,5 @@
 #+TITLE: 四書通旨-元-朱公遷
-#+DATE: 2016-06-11 12:20:44
+#+DATE: 2018-05-12 10:15:00
 #+SOURCE: github.com/kanripo/KR1h0039 master c95b8001                
 　　欽定四庫全書　　　　　經部八
 

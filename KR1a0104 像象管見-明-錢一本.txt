@@ -1,5 +1,5 @@
 #+TITLE: 像象管見-明-錢一本
-#+DATE: 2016-06-11 12:19:53
+#+DATE: 2018-05-12 10:13:24
 #+SOURCE: github.com/kanripo/KR1a0104 master 100dc4c7                
 欽定四庫全書　　　　　經部一
 　像象管見　　　　　　　易類

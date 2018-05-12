@@ -1,5 +1,5 @@
 #+TITLE: 讀易詳說-宋-李光
-#+DATE: 2016-06-11 12:19:45
+#+DATE: 2018-05-12 10:13:12
 #+SOURCE: github.com/kanripo/KR1a0022 master ebe5af36                
 欽定四庫全書　　　　經部一
 　讀易詳説　　　　　　易類

@@ -1,5 +1,5 @@
 #+TITLE: 文公易說-宋-朱鑑
-#+DATE: 2016-06-11 12:19:48
+#+DATE: 2018-05-12 10:13:16
 #+SOURCE: github.com/kanripo/KR1a0056 master 11da5ce2                
 欽定四庫全書　　　　經部一
 　朱文公易説　　　　　易類

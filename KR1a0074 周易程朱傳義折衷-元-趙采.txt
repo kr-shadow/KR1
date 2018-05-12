@@ -1,5 +1,5 @@
 #+TITLE: 周易程朱傳義折衷-元-趙采
-#+DATE: 2016-06-11 12:19:49
+#+DATE: 2018-05-12 10:13:19
 #+SOURCE: github.com/kanripo/KR1a0074 master a14fcb93                
 欽定四庫全書　　　　經部一
 　周易程朱傳義折衷　　易類

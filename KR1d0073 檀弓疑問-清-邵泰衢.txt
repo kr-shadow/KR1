@@ -1,5 +1,5 @@
 #+TITLE: 檀弓疑問-清-邵泰衢
-#+DATE: 2016-06-11 12:20:22
+#+DATE: 2018-05-12 10:14:18
 #+SOURCE: github.com/kanripo/KR1d0073 master c9103bc0                
 欽定四庫全書　　　　經部四
 　檀弓疑問　　　　　　　禮類三(禮記之屬/)

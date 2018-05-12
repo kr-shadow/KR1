@@ -1,5 +1,5 @@
 #+TITLE: 胡氏尚書詳解-宋-胡士行
-#+DATE: 2016-06-11 12:20:00
+#+DATE: 2018-05-12 10:13:35
 #+SOURCE: github.com/kanripo/KR1b0024 master ce94ff97                
 欽定四庫全書　　　　　經部二
 　尚書詳解　　　　　　　書𩔖

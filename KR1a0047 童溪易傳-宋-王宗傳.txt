@@ -1,5 +1,5 @@
 #+TITLE: 童溪易傳-宋-王宗傳
-#+DATE: 2016-06-11 12:19:47
+#+DATE: 2018-05-12 10:13:16
 #+SOURCE: github.com/kanripo/KR1a0047 master de81622d                
 欽定四庫全書　　　　經部一
 　童溪易傳　　　　　　易類

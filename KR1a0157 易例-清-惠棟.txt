@@ -1,5 +1,5 @@
 #+TITLE: 易例-清-惠棟
-#+DATE: 2016-06-11 12:19:57
+#+DATE: 2018-05-12 10:13:30
 #+SOURCE: github.com/kanripo/KR1a0157 master 0e9cc42e                
 欽定四庫全書　　　　　經部一
 　易例　　　　　　　　　易類

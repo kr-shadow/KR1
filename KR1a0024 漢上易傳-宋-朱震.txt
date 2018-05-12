@@ -1,5 +1,5 @@
 #+TITLE: 漢上易傳-宋-朱震
-#+DATE: 2016-06-11 12:19:45
+#+DATE: 2018-05-12 10:13:12
 #+SOURCE: github.com/kanripo/KR1a0024 master 122876ad                
 欽定四庫全書　　　　經部一
 　漢上易𫝊　　　　　　易𩔖

@@ -1,5 +1,5 @@
 #+TITLE: 復齋易說-宋-趙彥肅
-#+DATE: 2016-06-11 12:19:46
+#+DATE: 2018-05-12 10:13:15
 #+SOURCE: github.com/kanripo/KR1a0036 master 7c18e841                
 欽定四庫全書　　　　經部一
 　復齋易説　　　　　　易類

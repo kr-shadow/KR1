@@ -1,5 +1,5 @@
 #+TITLE: 增補鄭氏周易-漢-鄭玄
-#+DATE: 2016-06-11 12:19:44
+#+DATE: 2018-05-12 10:13:09
 #+SOURCE: github.com/kanripo/KR1a0004 master dd27c798                
 欽定四庫全書　　　　經部一
 　新本鄭氏周易　　　　易類

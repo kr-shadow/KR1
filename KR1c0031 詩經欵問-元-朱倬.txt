@@ -1,5 +1,5 @@
 #+TITLE: 詩經欵問-元-朱倬
-#+DATE: 2016-06-11 12:20:06
+#+DATE: 2018-05-12 10:13:50
 #+SOURCE: github.com/kanripo/KR1c0031 master 1b74b137                
 欽定四庫全書　　　　經部三
 　詩疑問　附詩辨説　　　詩類

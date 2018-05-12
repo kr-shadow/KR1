@@ -1,5 +1,5 @@
 #+TITLE: 洪範統一-宋-趙善湘
-#+DATE: 2016-06-11 12:20:00
+#+DATE: 2018-05-12 10:13:34
 #+SOURCE: github.com/kanripo/KR1b0021 master f52b2f36                
 欽定四庫全書　　　　　經部二
 　洪範統一　　　　　　　書類

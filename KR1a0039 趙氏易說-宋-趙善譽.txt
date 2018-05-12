@@ -1,5 +1,5 @@
 #+TITLE: 趙氏易說-宋-趙善譽
-#+DATE: 2016-06-11 12:19:46
+#+DATE: 2018-05-12 10:13:15
 #+SOURCE: github.com/kanripo/KR1a0039 master 67615ee6                
 欽定四庫全書　　　　經部一
 　易説　　　　　　　　易類

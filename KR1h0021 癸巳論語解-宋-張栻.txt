@@ -1,5 +1,5 @@
 #+TITLE: 癸巳論語解-宋-張栻
-#+DATE: 2016-06-11 12:20:42
+#+DATE: 2018-05-12 10:14:55
 #+SOURCE: github.com/kanripo/KR1h0021 master 5b98557c                
 　　欽定四庫全書　　　　　經部八
 

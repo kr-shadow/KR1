@@ -1,5 +1,5 @@
 #+TITLE: 讀易擧要-宋-兪琰
-#+DATE: 2016-06-11 12:19:49
+#+DATE: 2018-05-12 10:13:17
 #+SOURCE: github.com/kanripo/KR1a0065 master 44f2997c                
 欽定四庫全書　　　　經部一
 　讀易舉要　　　　　　易𩔖

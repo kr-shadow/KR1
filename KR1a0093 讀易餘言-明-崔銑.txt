@@ -1,5 +1,5 @@
 #+TITLE: 讀易餘言-明-崔銑
-#+DATE: 2016-06-11 12:19:51
+#+DATE: 2018-05-12 10:13:22
 #+SOURCE: github.com/kanripo/KR1a0093 master 5e5eb5b1                
 讀易餘言原序
 銑童丱居陜聞蜀蘇氏茂之講易心樂之先君子亦篤

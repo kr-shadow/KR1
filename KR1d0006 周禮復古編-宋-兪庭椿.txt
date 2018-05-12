@@ -1,5 +1,5 @@
 #+TITLE: 周禮復古編-宋-兪庭椿
-#+DATE: 2016-06-11 12:20:11
+#+DATE: 2018-05-12 10:14:01
 #+SOURCE: github.com/kanripo/KR1d0006 master bb072b4f                
 欽定四庫全書　　　　經部四
 　周禮復古編　　　　　禮類一(周禮之屬/)

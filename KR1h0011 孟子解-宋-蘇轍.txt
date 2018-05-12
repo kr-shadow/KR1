@@ -1,5 +1,5 @@
 #+TITLE: 孟子解-宋-蘇轍
-#+DATE: 2016-06-11 12:20:41
+#+DATE: 2018-05-12 10:14:53
 #+SOURCE: github.com/kanripo/KR1h0011 master 50f0c926                
 　　欽定四庫全書　　　　　經部八
 

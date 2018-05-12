@@ -1,5 +1,5 @@
 #+TITLE: 大學疏義-宋-金履祥
-#+DATE: 2016-06-11 12:20:42
+#+DATE: 2018-05-12 10:14:57
 #+SOURCE: github.com/kanripo/KR1h0029 master 0415d383                
 　　欽定四庫全書　　　　　經部八
 

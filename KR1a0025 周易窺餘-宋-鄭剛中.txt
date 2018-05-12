@@ -1,5 +1,5 @@
 #+TITLE: 周易窺餘-宋-鄭剛中
-#+DATE: 2016-06-11 12:19:45
+#+DATE: 2018-05-12 10:13:12
 #+SOURCE: github.com/kanripo/KR1a0025 master 6acdddac                
 欽定四庫全書　　　　經部一
 　周易窺餘　　　　　　易𩔖

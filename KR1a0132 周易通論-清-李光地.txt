@@ -1,5 +1,5 @@
 #+TITLE: 周易通論-清-李光地
-#+DATE: 2016-06-11 12:19:55
+#+DATE: 2018-05-12 10:13:27
 #+SOURCE: github.com/kanripo/KR1a0132 master 8c8d7935                
 欽定四庫全書　　　　　經部一
 　周易通論　　　　　　　易類

@@ -1,5 +1,5 @@
 #+TITLE: 了齋易說-宋-陳瓘
-#+DATE: 2016-06-11 12:19:45
+#+DATE: 2018-05-12 10:13:11
 #+SOURCE: github.com/kanripo/KR1a0018 master 93b212f4                
 欽定四庫全書　　　　經部一
 　了齋易説　　　　　　易𩔖

@@ -1,5 +1,5 @@
 #+TITLE: 橫渠易說-宋-張載
-#+DATE: 2016-06-11 12:19:44
+#+DATE: 2018-05-12 10:13:10
 #+SOURCE: github.com/kanripo/KR1a0014 master 6e9deeee                
 欽定四庫全書　　　　　經部一
 　横渠易說目録　　　　　易類

@@ -1,5 +1,5 @@
 #+TITLE: 周易像象述-明-吳桂森
-#+DATE: 2016-06-11 12:19:53
+#+DATE: 2018-05-12 10:13:24
 #+SOURCE: github.com/kanripo/KR1a0108 master 030bd055                
 欽定四庫全書　　　　　經部一
 　周易像象述　　　　　　易類

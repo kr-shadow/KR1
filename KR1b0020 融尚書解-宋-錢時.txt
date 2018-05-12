@@ -1,5 +1,5 @@
 #+TITLE: 融尚書解-宋-錢時
-#+DATE: 2016-06-11 12:20:00
+#+DATE: 2018-05-12 10:13:34
 #+SOURCE: github.com/kanripo/KR1b0020 master 291d5118                
 欽定四庫全書　　　　　經部二
 　融堂書解目録　　　　　書類

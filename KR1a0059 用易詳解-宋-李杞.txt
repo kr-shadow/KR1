@@ -1,5 +1,5 @@
 #+TITLE: 用易詳解-宋-李杞
-#+DATE: 2016-06-11 12:19:48
+#+DATE: 2018-05-12 10:13:17
 #+SOURCE: github.com/kanripo/KR1a0059 master 58ae42bf                
 欽定四庫全書　　　　經部一
 　用易詳解　　　　　　易類

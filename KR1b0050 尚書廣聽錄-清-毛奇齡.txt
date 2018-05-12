@@ -1,5 +1,5 @@
 #+TITLE: 尚書廣聽錄-清-毛奇齡
-#+DATE: 2016-06-11 12:20:02
+#+DATE: 2018-05-12 10:13:40
 #+SOURCE: github.com/kanripo/KR1b0050 master 9bf81681                
 欽定四庫全書　　　　　經部二
 　尚書廣聽録目録　　　　書類

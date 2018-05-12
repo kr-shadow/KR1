@@ -1,5 +1,5 @@
 #+TITLE: 易精蘊大義-元-解蒙
-#+DATE: 2016-06-11 12:19:50
+#+DATE: 2018-05-12 10:13:19
 #+SOURCE: github.com/kanripo/KR1a0084 master da8e9e94                
 欽定四庫全書　　　　　經部一
 　易精藴大義　　　　　　易類

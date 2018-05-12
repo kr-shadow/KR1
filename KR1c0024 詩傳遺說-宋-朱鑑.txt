@@ -1,5 +1,5 @@
 #+TITLE: 詩傳遺說-宋-朱鑑
-#+DATE: 2016-06-11 12:20:05
+#+DATE: 2018-05-12 10:13:48
 #+SOURCE: github.com/kanripo/KR1c0024 master 44e58c93                
 欽定四庫全書　　　　經部三
 　詩傳遺説　　　　　　詩類

@@ -1,5 +1,5 @@
 #+TITLE: 大學中庸集說啟蒙-元-景星
-#+DATE: 2016-06-11 12:20:44
+#+DATE: 2018-05-12 10:15:00
 #+SOURCE: github.com/kanripo/KR1h0041 master 194d5d16                
 　　欽定四庫全書　　　　　　經部八
 

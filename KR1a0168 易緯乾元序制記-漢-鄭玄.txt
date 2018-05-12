@@ -1,5 +1,5 @@
 #+TITLE: 易緯乾元序制記-漢-鄭玄
-#+DATE: 2016-06-11 12:19:58
+#+DATE: 2018-05-12 10:13:30
 #+SOURCE: github.com/kanripo/KR1a0168 master 58d8c744                
 欽定四庫全書
 　易緯乾元序制記　　　　　漢　鄭康成　注

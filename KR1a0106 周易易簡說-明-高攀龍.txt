@@ -1,5 +1,5 @@
 #+TITLE: 周易易簡說-明-高攀龍
-#+DATE: 2016-06-11 12:19:53
+#+DATE: 2018-05-12 10:13:24
 #+SOURCE: github.com/kanripo/KR1a0106 master d8cd7b9e                
 欽定四庫全書　　　　　經部一
 　周易易簡說　　　　　　易類

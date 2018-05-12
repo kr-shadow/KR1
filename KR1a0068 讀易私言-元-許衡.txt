@@ -1,5 +1,5 @@
 #+TITLE: 讀易私言-元-許衡
-#+DATE: 2016-06-11 12:19:49
+#+DATE: 2018-05-12 10:13:18
 #+SOURCE: github.com/kanripo/KR1a0068 master e3b4404b                
 欽定四庫全書　　　　經部一
 　讀易私言　　　　　　易𩔖

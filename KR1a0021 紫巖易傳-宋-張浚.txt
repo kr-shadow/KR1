@@ -1,5 +1,5 @@
 #+TITLE: 紫巖易傳-宋-張浚
-#+DATE: 2016-06-11 12:19:45
+#+DATE: 2018-05-12 10:13:11
 #+SOURCE: github.com/kanripo/KR1a0021 master 542451f7                
 欽定四庫全書　　　　經部一
 　紫巖易𫝊　　　　　　易𩔖

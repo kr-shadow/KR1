@@ -1,5 +1,5 @@
 #+TITLE: 詩說-清-惠周惕
-#+DATE: 2016-06-11 12:20:09
+#+DATE: 2018-05-12 10:13:57
 #+SOURCE: github.com/kanripo/KR1c0057 master 90f841e8                
 欽定四庫全書　　　　經部三
 　詩説　　　　　　　　詩類

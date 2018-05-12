@@ -1,5 +1,5 @@
 #+TITLE: 朱子禮纂-清-李光地
-#+DATE: 2016-06-11 12:20:26
+#+DATE: 2018-05-12 10:14:23
 #+SOURCE: github.com/kanripo/KR1d0091 master db8beea4                
 欽定四庫全書　　　　經部四
 　朱子禮纂　　　　　　禮類六(雜禮書之屬/)

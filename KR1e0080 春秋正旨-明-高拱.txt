@@ -1,5 +1,5 @@
 #+TITLE: 春秋正旨-明-高拱
-#+DATE: 2016-06-11 12:20:34
+#+DATE: 2018-05-12 10:14:35
 #+SOURCE: github.com/kanripo/KR1e0080 master e76ffa83                
 欽定四庫全書　　　　　經部五
 　春秋正㫖　　　　　　　春秋類

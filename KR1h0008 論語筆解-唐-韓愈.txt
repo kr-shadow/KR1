@@ -1,5 +1,5 @@
 #+TITLE: 論語筆解-唐-韓愈
-#+DATE: 2016-06-11 12:20:41
+#+DATE: 2018-05-12 10:14:53
 #+SOURCE: github.com/kanripo/KR1h0008 master 004e3cfb                
 　　欽定四庫全書　　　　　經部八
 

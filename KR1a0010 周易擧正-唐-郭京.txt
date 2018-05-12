@@ -1,5 +1,5 @@
 #+TITLE: 周易擧正-唐-郭京
-#+DATE: 2016-06-11 12:19:44
+#+DATE: 2018-05-12 10:13:10
 #+SOURCE: github.com/kanripo/KR1a0010 master 04dd409d                
 欽定四庫全書　　　　經部一
 　周易舉正　　　　　　易類

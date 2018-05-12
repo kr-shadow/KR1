@@ -1,5 +1,5 @@
 #+TITLE: 周易口義-宋-胡瑗
-#+DATE: 2016-06-11 12:19:44
+#+DATE: 2018-05-12 10:13:10
 #+SOURCE: github.com/kanripo/KR1a0012 master ecf18bc9                
 欽定四庫全書　　　　經部一
 　周易口義　　　　　　易類

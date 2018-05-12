@@ -1,5 +1,5 @@
 #+TITLE: 程氏經說-宋-程頤
-#+DATE: 2016-06-11 12:20:39
+#+DATE: 2018-05-12 10:14:45
 #+SOURCE: github.com/kanripo/KR1g0005 master 7baa9d35                
 欽定四庫全書　　　　　經部七
 　程氏經説　　　　　　　五經總義類

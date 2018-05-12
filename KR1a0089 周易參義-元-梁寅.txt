@@ -1,5 +1,5 @@
 #+TITLE: 周易參義-元-梁寅
-#+DATE: 2016-06-11 12:19:51
+#+DATE: 2018-05-12 10:13:20
 #+SOURCE: github.com/kanripo/KR1a0089 master a9b9740d                
 欽定四庫全書　　　　經部一
 　周易參義　　　　　　易類

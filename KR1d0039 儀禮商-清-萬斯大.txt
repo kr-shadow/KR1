@@ -1,5 +1,5 @@
 #+TITLE: 儀禮商-清-萬斯大
-#+DATE: 2016-06-11 12:20:15
+#+DATE: 2018-05-12 10:14:10
 #+SOURCE: github.com/kanripo/KR1d0039 master 9bed0173                
 欽定四庫全書　　　　　經部四
 　儀禮商　　　　　　　　禮類二(儀禮之屬/)

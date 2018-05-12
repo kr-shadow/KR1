@@ -1,5 +1,5 @@
 #+TITLE: 四書辨疑-元-陳天祥
-#+DATE: 2016-06-11 12:20:43
+#+DATE: 2018-05-12 10:14:58
 #+SOURCE: github.com/kanripo/KR1h0032 master 282a743a                
 　　欽定四庫全書　　　　　經部八
 

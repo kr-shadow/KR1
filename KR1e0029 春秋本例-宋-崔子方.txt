@@ -1,5 +1,5 @@
 #+TITLE: 春秋本例-宋-崔子方
-#+DATE: 2016-06-11 12:20:28
+#+DATE: 2018-05-12 10:14:27
 #+SOURCE: github.com/kanripo/KR1e0029 master 9f6ccd05                
 欽定四庫全書　　　　　經部五
 　春秋本例　　　　　　春秋類

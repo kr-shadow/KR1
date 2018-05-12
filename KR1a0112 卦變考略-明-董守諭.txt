@@ -1,5 +1,5 @@
 #+TITLE: 卦變考略-明-董守諭
-#+DATE: 2016-06-11 12:19:53
+#+DATE: 2018-05-12 10:13:25
 #+SOURCE: github.com/kanripo/KR1a0112 master 819c94ae                
 欽定四庫全書　　　　　經部一
 　卦變考畧　　　　　　　易類

@@ -1,5 +1,5 @@
 #+TITLE: 左氏傳說-宋-呂祖謙
-#+DATE: 2016-06-11 12:20:29
+#+DATE: 2018-05-12 10:14:29
 #+SOURCE: github.com/kanripo/KR1e0039 master 59b0f80d                
 欽定四庫全書　　　　經部五
 　春秋左氏傳説　　　　春秋類
